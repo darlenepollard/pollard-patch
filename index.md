@@ -3,4 +3,4 @@
 
 Visit [site!](https://darlenepollard.com) today to learn more.
 
-Having trouble contacting us? Email us [support](https://info@darlenpollard.com) and we’ll help you sort it out!
+Having trouble contacting us? Visit [support](info@darlenpollard.com) and we’ll help you sort it out!
