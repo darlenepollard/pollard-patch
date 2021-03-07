@@ -1,7 +1,7 @@
 ## Welcome to the Pollard Patch
 #### Planting *TRUTH* and exposing *FAKE* through simple yet fundamental concepts
 
-You can use the [editor on GitHub](https://github.com/darlenepollard/pollard-patch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Visit [my site!](https:darlenpollard.com) today to learn more.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
