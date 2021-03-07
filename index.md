@@ -1,7 +1,7 @@
 ## Welcome to the Pollard Patch
 #### Planting *TRUTH* and exposing *FAKE* through simple yet fundamental concepts
 
-Visit [my site!](https:darlenpollard.com) today to learn more.
+Visit [my site!](https:darlenepollard.com) today to learn more.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
